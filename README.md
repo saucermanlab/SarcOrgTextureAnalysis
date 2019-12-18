@@ -27,4 +27,6 @@ MATLAB Statistics and Machine Learning Toolbox
 
 Example images
 --------------
-We recommend first running analysis with idealized images. The cell images used for the manuscript may be available on request. Place the included Images folder within the directory for SOTA and run master.m.
+We recommend first running analysis with idealized images. The cell images used for the manuscript have been archived on figshare at:
+https://doi.org/10.6084/m9.figshare.11390022
+Place the included Images folder within the directory for SOTA and run master.m.
