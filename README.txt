@@ -1,6 +1,3 @@
-# SarcOrgTextureAnalysis
-Sarcomere Organization Texture Analysis - code from Sutclife et al Scientific Reports 2018, PMID 29352247
-
 Sarcomere Organization Texture Analysis
 
 v1.0: published version
