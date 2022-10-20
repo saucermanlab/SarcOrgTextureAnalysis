@@ -11,6 +11,8 @@ If you use this software in a scientific publication, please cite:
 
 Matthew D. Sutcliffe, Philip M. Tan, Antonio Fernandez-Perez, Young-Jae Nam, Nikhil V. Munshi and Jeffrey J. Saucerman. (2018). High content analysis identifies unique morphological features of reprogrammed cardiomyocytes. Scientific Reports 8, 1258.
 
+You should first run SOTA with the provided example images (see below).
+
 Summary of main files
 ---------------------
 master.m: loads images and runs analyses, generating figures of analyzed results
